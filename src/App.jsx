@@ -308,7 +308,7 @@ const unir=letter.join(" ");
      <p>{letter.join("").length}</p>
      <p>{letter.length}</p>
      <button type="button" onClick={handleClose}>cerrar</button>
-           
+     <p>maru</p>        
      </div>
      </>
   )
